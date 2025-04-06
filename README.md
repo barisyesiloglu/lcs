@@ -1,4 +1,4 @@
-# lcs
+# Longest Common Subsequence of Random Binary Strings
 The length of the longest common subsequence (LCS) of random binary strings and its variance is investigated using Monte Carlo simulations. Two different cases were examined:
 
 LCSrand: Each digit of sequence X is independently 1 with probability p. Each digit of sequence Y is independently 1 with probability q.
